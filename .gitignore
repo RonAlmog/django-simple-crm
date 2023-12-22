@@ -1,0 +1,7 @@
+*.settings
+*.sqlite3
+venv/bin/*
+venv/lib/*
+venv/*
+*.pyc
+settings.*

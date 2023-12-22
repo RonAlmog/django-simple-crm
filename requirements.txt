@@ -1,1 +1,5 @@
 django
+mysqlclient
+mysql-connector-python
+django-environ
+

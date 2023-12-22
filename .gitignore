@@ -5,3 +5,4 @@ venv/lib/*
 venv/*
 *.pyc
 settings.*
+*.env
